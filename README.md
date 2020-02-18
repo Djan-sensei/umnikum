@@ -15,3 +15,9 @@
 
 **Рейтинг игроков**
 ![Скрин 3](https://github.com/Djan-sensei/umnikum/raw/master/screen/screen_003.jpg)
+
+**Попался вопрос - Викторины**
+![Скрин 4](https://github.com/Djan-sensei/umnikum/raw/master/screen/screen_004.jpg)
+
+**Выбор уровня**
+![Скрин 5](https://github.com/Djan-sensei/umnikum/raw/master/screen/screen_005.jpg)
